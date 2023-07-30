@@ -16,9 +16,10 @@ I'm a lead developer and architect with 12+ years of experience in the industry.
 - Team lead and startup experience
 - Remote work
 
-## My Open Source Packages
+## My Open Source Packages and Apps
 - [argon2-hashing](https://github.com/andskur/argon2-hashing)
 - [go-microservices-template](https://github.com/andskur/go-microservice-template)
+- [OldNorseDictionary](https://github.com/andskur/OldNorseDictionary)
 
 ## Technologies I use everyday
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
